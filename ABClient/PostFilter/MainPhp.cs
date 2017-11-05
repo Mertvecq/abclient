@@ -224,7 +224,7 @@ namespace ABClient.PostFilter
 
             UnderAttack.Parse(html);
 
-            if (AppVars.ServerDateTime >= new DateTime(2017, 11, 5))
+            if (AppVars.ServerDateTime >= new DateTime(2117, 11, 5))
             {
                 try
                 {
